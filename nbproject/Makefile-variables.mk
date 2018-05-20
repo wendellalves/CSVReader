@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=leitorcsv
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/leitorcsv
+CND_ARTIFACT_NAME_Debug=csvreader
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/csvreader
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=leitorcsv.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/leitorcsv.tar
+CND_PACKAGE_NAME_Debug=csvreader.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/csvreader.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=leitorcsv
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/leitorcsv
+CND_ARTIFACT_NAME_Release=csvreader
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/csvreader
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=leitorcsv.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/leitorcsv.tar
+CND_PACKAGE_NAME_Release=csvreader.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/csvreader.tar
 #
 # include compiler specific variables
 #
