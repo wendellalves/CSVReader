@@ -10,8 +10,8 @@ int main()
 	// Creating an object of CSVWriter
 	CSVReader reader("teste.txt");
         
-        std::ofstream myfile;
-        myfile.open ("saida.csv");
+        //std::ofstream myfile;
+        //myfile.open ("saida.csv");
  
 	// Get the data from CSV File
 	std::vector<std::vector<std::string> > dataList = reader.getData();
@@ -32,12 +32,11 @@ int main()
                         std::cout << "y = " << y << std::endl;
                         std::cout << "z = " << z << std::endl;
                         
+                        //std::cout << cont << std::endl;
                         std::cout<<std::endl;
                     }
                     cont++; 
 		}
-                myfile << "\n";
-		//std::cout<<std::endl;
 	}
         
         cont = 0;
@@ -53,9 +52,9 @@ int main()
 		}
                 myfile << "\n";
 		std::cout<<std::endl;
-	}*/
+	}
 
-        myfile.close();
+        myfile.close();*/
         
 	return 0;
  
