@@ -36,10 +36,10 @@ void organizeCSV() {
     int cont = 0, linhas, colunas = 3;
 
     // Creating an object of CSVWriter
-    CSVReader reader("csvBugado.csv");
+    CSVReader reader("CSVs/direita/direita7.csv");
 
     std::ofstream myfile;
-    myfile.open("saida.csv");
+    myfile.open("CSVs/newDireita/direita7.csv");
 
     // Get the data from CSV File
     std::vector<std::vector<std::string> > dataList = reader.getData();
